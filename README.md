@@ -6,22 +6,9 @@ Welcome to the **Frontend Development Team** at **TBAI Organization**! We’re d
 
 The members of our team are:
 
-<div align="center">
-  <img src="https://i.postimg.cc/Kc69XBxs/1714044619720.jpg" alt="Shinjan Saha" width="150" style="border-radius: 50%;"/>
-  <h3>Shinjan Saha</h3>
-</div>
-
-<div align="center">
-  <img src="https://i.postimg.cc/tCGzvbNK/1735360948596.jpg" alt="Priyanshu Dutta" width="150" style="border-radius: 50%;"/>
-  <h3>Priyanshu Dutta</h3>
-</div>
-
-
-
-<div align="center">
-  <img src="https://i.postimg.cc/tJWNRvpv/1734033696139.jpg" alt="Pretisha Sahoo" width="150" style="border-radius: 50%;"/>
-  <h3>Pretisha Sahoo</h3>
-</div>
+| ![Shinjan Saha](https://i.postimg.cc/Kc69XBxs/1714044619720.jpg) | ![Priyanshu Dutta](https://i.postimg.cc/tJWNRvpv/1734033696139.jpg) | ![Pretisha Sahoo](https://i.postimg.cc/tCGzvbNK/1735360948596.jpg) |
+|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
+| **Shinjan Saha** – Flutter Developer                           | **Priyanshu Dutta** – Flutter Developer                        | **Pretisha Sahoo** – Flutter Developer                        |
 
 ## Our Role
 
@@ -55,6 +42,29 @@ While each of us brings a unique approach to these shared responsibilities, we w
 Each team member, **Shinjan**, **Priyanshu**, and **Pretisha**, contributes equally to these responsibilities, ensuring the mobile application is **well-optimized**, **performant**, and **flawlessly integrated with backend services**.
 
 ---
+
+
+[![Frontend's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FrontendTeam-TBAI&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">
+   <a href="https://github.com/FrontendTeam-TBAI">
+   <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FrontendTeam-TBAI&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
+   </a>
+   <a href="https://github.com/FrontendTeam-TBAI">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=FrontendTeam-TBAI&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="FrontendTeam-TBAI" width=49% height=100%/>
+   <br/>
+   </a>
+</div>
+
+ <div align="center">
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=FrontendTeam-TBAI&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FrontendTeam-TBAI" /></p>
+
+</div>
+
+
+
+
 
 ### Contact Us:
 If you need to reach out to any of us for collaboration or questions, feel free to drop a message!
