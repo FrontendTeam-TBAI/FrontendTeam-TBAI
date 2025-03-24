@@ -8,7 +8,7 @@ The members of our team are:
 
 | ![Shinjan Saha](https://i.postimg.cc/Kc69XBxs/1714044619720.jpg) | ![Priyanshu Dutta](https://i.postimg.cc/tJWNRvpv/1734033696139.jpg) | ![Pretisha Sahoo](https://i.postimg.cc/tCGzvbNK/1735360948596.jpg) |
 |:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
-| **Shinjan Saha** – Flutter Developer                           | **Priyanshu Dutta** – Flutter Developer                        | **Pretisha Sahoo** – Flutter Developer                        |
+| **Shinjan Saha** – Flutter Developer                           | **Pretisha Sahoo** – Flutter Developer                        | **Priyanshu Dutta** – Flutter Developer                        |
 
 ## Our Role
 
