@@ -6,9 +6,9 @@ Welcome to the **Frontend Development Team** at **TBAI Organization**! We’re d
 
 The members of our team are:
 
-| ![Shinjan Saha](https://i.postimg.cc/Kc69XBxs/1714044619720.jpg) | ![Priyanshu Dutta](https://i.postimg.cc/tJWNRvpv/1734033696139.jpg) | ![Pretisha Sahoo](https://i.postimg.cc/tCGzvbNK/1735360948596.jpg) |
-|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
-| **Shinjan Saha** – Flutter Developer                           | **Pretisha Sahoo** – Flutter Developer                        | **Priyanshu Dutta** – Flutter Developer                        |
+| ![Shinjan Saha](https://i.postimg.cc/Kc69XBxs/1714044619720.jpg) | ![Priyanshu Dutta](https://i.postimg.cc/tJWNRvpv/1734033696139.jpg) | ![Pretisha Sahoo](https://i.postimg.cc/tCGzvbNK/1735360948596.jpg) | ![Debopriya Lahiri](https://i.postimg.cc/MHHFMrHM/image.png) |
+|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
+| **Shinjan Saha** – Flutter Developer                           | **Pretisha Sahoo** – Flutter Developer                        | **Priyanshu Dutta** – Flutter Developer                        | **Debopriya Lahiri** – SDE Developer     |
 
 ## Our Role
 
@@ -71,4 +71,6 @@ If you need to reach out to any of us for collaboration or questions, feel free 
 
 - **Shinjan Saha** – [LinkedIn](https://www.linkedin.com/in/shinjan-saha-404064248) | [Email](mailto:shinjansaha@technobillioai.com)
 - **Priyanshu Dutta** – [LinkedIn](https://www.linkedin.com/in/priyanshudutta04) | [Email](mailto:priyanshudutta@technobillionai.com)
-- **Pretisha Sahoo** – [LinkedIn](https://www.linkedin.com/in/pretisha-sahoo) | [Email](mailto:pretishasahoo@technobilllionai.com)
+- **Pretisha Sahoo** – [LinkedIn](https://www.linkedin.com/in/pretisha-sahoo) | [Email](mailto:pretishasahoo@technobillionai.com)
+- **Debopriya Lahiri** – [LinkedIn](https://www.linkedin.com/in/debopriya-lahiri-615a37266) | [Email](mailto:debopriyalahiri99@technobillionai.com)
+
