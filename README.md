@@ -8,7 +8,7 @@ The members of our team are:
 
 | ![Shinjan Saha](https://i.postimg.cc/Kc69XBxs/1714044619720.jpg) | ![Priyanshu Dutta](https://i.postimg.cc/tJWNRvpv/1734033696139.jpg) | ![Pretisha Sahoo](https://i.postimg.cc/tCGzvbNK/1735360948596.jpg) | ![Debopriya Lahiri](https://i.postimg.cc/MHHFMrHM/image.png) |
 |:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
-| **Shinjan Saha** – Web/App Developer                           | **Pretisha Sahoo** – Web/App Developer                        | **Priyanshu Dutta** – FWeb/App Developer                        | **Debopriya Lahiri** – Web Developer     |
+| **Shinjan Saha** – Web/App Developer                           | **Pretisha Sahoo** – Web/App Developer                        | **Priyanshu Dutta** –Web/App Developer                        | **Debopriya Lahiri** – Web Developer     |
 
 ## Our Role
 
