@@ -8,11 +8,11 @@ The members of our team are:
 
 | ![Shinjan Saha](https://i.postimg.cc/Kc69XBxs/1714044619720.jpg) | ![Priyanshu Dutta](https://i.postimg.cc/tJWNRvpv/1734033696139.jpg) | ![Pretisha Sahoo](https://i.postimg.cc/tCGzvbNK/1735360948596.jpg) | ![Debopriya Lahiri](https://i.postimg.cc/MHHFMrHM/image.png) |
 |:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
-| **Shinjan Saha** – Flutter Developer                           | **Pretisha Sahoo** – Flutter Developer                        | **Priyanshu Dutta** – Flutter Developer                        | **Debopriya Lahiri** – SDE Developer     |
+| **Shinjan Saha** – Web/App Developer                           | **Pretisha Sahoo** – Web/App Developer                        | **Priyanshu Dutta** – FWeb/App Developer                        | **Debopriya Lahiri** – Web Developer     |
 
 ## Our Role
 
-As the **Frontend Development Team**, our core focus is to build and optimize the **mobile application** for the best user experience. All team members share the following responsibilities:
+As the **Frontend Development Team**, our core focus is to build and optimize the **mobile & Web application** for the best user experience. All team members share the following responsibilities:
 
 ### **UI Performance Optimization**:
 We are responsible for ensuring that the **user interface (UI)** performs efficiently across different devices. This includes:
@@ -23,7 +23,7 @@ We are responsible for ensuring that the **user interface (UI)** performs effici
 - Ensuring that the app runs smoothly even with multiple concurrent operations, providing a seamless user experience.
 
 ### **API Integration**:
-We integrate the app’s frontend with **backend APIs**, ensuring data is fetched and displayed correctly. This involves:
+We integrate the App’s frontend with **backend APIs**, ensuring data is fetched and displayed correctly. This involves:
 
 - Setting up and managing API calls for fetching, posting, and updating data.
 - Handling errors gracefully and providing meaningful feedback to users.
@@ -39,7 +39,7 @@ While each of us brings a unique approach to these shared responsibilities, we w
 
 ---
 
-Each team member, **Shinjan**, **Priyanshu**, and **Pretisha**, contributes equally to these responsibilities, ensuring the mobile application is **well-optimized**, **performant**, and **flawlessly integrated with backend services**.
+Each team member, **Shinjan**, **Priyanshu**,  **Pretisha** and   **Debopriya** , contributes equally to these responsibilities, ensuring the Frontend application is **well-optimized**, **performant**, and **flawlessly integrated with backend services**.
 
 ---
 
